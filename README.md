@@ -1,15 +1,6 @@
 # FIT2099 Assignment (Semester 2 - 2022) - Pokemon!
 
-## CL_Lab7Group5
-Team members:
-Raunak Koirala
-*
-*
-
-
-## New assignment 3 UML and Rationales in Assignment 3 pdf in docs, the designs have been added to another document under Assignment 2 pdf for easier readability.
-
-
+## All documentation in docs including UMLS and Rationales as well as reflection
 
 
 # Assignment 3 Creative Mode Tables:
