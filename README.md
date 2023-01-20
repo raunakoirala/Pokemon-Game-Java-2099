@@ -1,5 +1,16 @@
 # FIT2099 Assignment (Semester 2 - 2022) - Pokemon!
 
+Solution Aim:
+
+- Iteratively construct object-oriented designs for small to medium-size software systems, and describe these designs using standard software engineering notations including UML class diagrams (in conceptual and concrete forms), UML interaction diagrams and, if applicable, UML state diagrams;
+
+- Implement object-oriented designs in an object-oriented programming language (i.e., Java), using object-oriented programming constructs such as classes, inheritance, abstract classes, and generics as appropriate;
+
+- Use available language tools, such as debuggers and profilers, and good programming practice to debug their implementations systematically and efficiently.
+
+- Use software engineering tools including UML drawing tools, integrated development environments, and revision control to create, edit, and manage artefacts created during the development process.
+
+
 ## All documentation in docs including UMLS and Rationales as well as reflection
 
 
