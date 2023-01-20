@@ -6,11 +6,8 @@ Raunak Koirala
 *
 *
 
-Link to contribution logs spreadsheet: https://docs.google.com/spreadsheets/d/1z3_UeP_lR0X4kZdN-PbN7SxJbu9lY6RN7ykJtKTF9Rw/edit?usp=sharing
 
 ## New assignment 3 UML and Rationales in Assignment 3 pdf in docs, the designs have been added to another document under Assignment 2 pdf for easier readability.
-
-Link: https://git.infotech.monash.edu/fit2099/fit2099-s2-2022/fit2099-s2-2022-assignments/CL_Lab7Group5/project/-/blob/main/docs/FIT2099_Assignment3_CL_Lab7Group5.pdf
 
 
 
